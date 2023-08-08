@@ -97,7 +97,6 @@ function doubleNumber(number) {
       }
       number = userInput;
     }
-  
     return number * 2;
   }
   
